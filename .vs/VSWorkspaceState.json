@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\tn",
+    "\\src\\main\\java\\tn\\esprit",
+    "\\src\\main\\java\\tn\\esprit\\aichaprojet1",
+    "\\src\\main\\java\\tn\\esprit\\aichaprojet1\\entity",
+    "\\src\\main\\java\\tn\\esprit\\aichaprojet1\\repositories",
+    "\\src\\main\\resources"
+  ],
+  "SelectedNode": "\\src\\main\\java\\tn\\esprit\\aichaprojet1\\repositories\\UniversiteRepository.java",
+  "PreviewInSolutionExplorer": false
+}
